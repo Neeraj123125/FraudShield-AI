@@ -226,6 +226,31 @@ The application will open automatically in your browser.
 
 ---
 
+## 📂 Dataset
+
+This project uses the **Credit Card Fraud Detection** dataset from Kaggle.
+
+The dataset is **not included** in this repository because it exceeds GitHub's file size limit.
+
+### Download Dataset
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+### Place the dataset in the following directory:
+
+```text
+Data/
+└── Raw/
+    └── creditcard.csv
+```
+
+After downloading the dataset, ensure the file is located at:
+
+```text
+Data/Raw/creditcard.csv
+```
+
+
 # 🚀 How to Use
 
 ### Option 1 – Upload CSV
